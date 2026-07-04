@@ -6,7 +6,7 @@ A modern, responsive landing page designed to showcase **Ezitech Institute**'s i
 
 ## 📌 Overview
 
-Ezitech Institute bridges the gap between academic learning and industry demands by offering hybrid IT internships in Web Development, App Development, AI, Digital Marketing, and more. This website serves as a digital storefront to:
+This frontend is designed as a first project of Ezitech Institute bridges the gap between academic learning and industry demands by offering hybrid IT internships in Web Development, App Development, AI, Digital Marketing, and more. This website serves as a digital storefront to:
 
 - Present internship opportunities
 - Build trust through alumni testimonials and statistics
@@ -20,13 +20,10 @@ Ezitech Institute bridges the gap between academic learning and industry demands
 | Feature | Description |
 |---------|-------------|
 | **Hero Banner** | Full-width with search bar, CTAs, and product highlights (EZIBLOGS, EZIPOS, EZICODING) |
-| **3‑Step Process** | Discover → Evaluate → Track, explaining the internship journey |
 | **Stats Counter** | Live metrics: 37+ MoUs, 98% feedback, 327 active students, 6,663+ graduates |
 | **Service Grid** | 6 internship domains with iconography and descriptions |
 | **Alumni Testimonials** | Authentic reviews from past interns to build social proof |
-| **Newsletter Signup** | Footer subscription form for updates and announcements |
 | **Fully Responsive** | Optimized for desktop, tablet, and mobile devices |
-| **Sticky Navigation** | With smooth hover underlines and mobile hamburger menu |
 
 ---
 
@@ -36,9 +33,7 @@ Ezitech Institute bridges the gap between academic learning and industry demands
 |------------|---------|
 | HTML5 | Semantic markup |
 | CSS3 | Custom styling (Flexbox, Grid, animations) |
-| JavaScript | Mobile menu toggle |
 | Google Fonts | IBM Plex Sans + Poppins for clean typography |
-| Font Awesome | Icon library |
 | Unsplash | Hero background image (demo) |
 
 ---
