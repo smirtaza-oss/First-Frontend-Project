@@ -1,4 +1,4 @@
-# Ezitech Software Houuse — Hybrid Internships Platform
+# Ezitech Software House — Hybrid Internships Platform
 
 A modern, responsive landing page designed to showcase **Ezitech Institute**'s internship programs, services, and success metrics. Built with a clean UI, strong typography, and mobile-first approach to attract and convert prospective interns.
 
